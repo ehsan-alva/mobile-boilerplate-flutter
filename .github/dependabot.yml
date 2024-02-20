@@ -1,0 +1,4 @@
+version: 2
+updates:
+  # Enable updates for Dart/Flutter dependencies
+  - package-ecosystem: "pub" 
